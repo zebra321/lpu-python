@@ -1,5 +1,5 @@
 print("Please Enter Your Name :")
 Name=input()
-print("Enetr Your Age")
+print("Please Enetr Your Age")
 Age=int(input())
-print("Name=",Name,"Age=",Age)
+print("Name = ",Name,"Age = ",Age)
